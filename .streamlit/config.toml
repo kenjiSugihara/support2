@@ -1,0 +1,14 @@
+# Welfamily テーマ設定
+# 悩みを抱える方の心を落ち着かせるため、刺激的な純赤・純青を避け、
+# 暖かみのあるパステル／アースカラー基調で配色する（非機能要求書 §2）。
+
+[theme]
+primaryColor = "#E8A87C"        # やわらかいテラコッタ（アクセント）
+backgroundColor = "#FBF7F0"     # 生成りのアイボリー（背景）
+secondaryBackgroundColor = "#F3E9DC"  # チャットバブル等のサブ背景
+textColor = "#4A4038"           # 黒すぎない温かみのあるダークブラウン
+font = "sans serif"
+
+[server]
+# アップロード等は使わないため控えめに
+maxUploadSize = 5
